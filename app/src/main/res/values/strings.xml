@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GworldDiningApp</string>
+    <string name="find_restaurants_button">Find Restaurants</string>
+    <string name="search_radius">Search Radius:</string>
+    <string name="restaurant_1">mexican</string>
+    <string name="restaurant_2">chinese</string>
+    <string name="restaurant_3">italian</string>
+    <string name="restaurant_4">dessert</string>
+    <string name="restaurant_5">sushi</string>
+    <string name="restaurant_wild">anything</string>
+    <string name="restaurant_6">breakfast</string>
+    <string name="restaurant_choices">Restaurant Choices</string>
+    <string name="default_radius"></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_reviews">Map</string>
+    <string name="map_button">Long Press on a Location</string>
+    <string name="map_button_update">Reviews for </string>
+</resources>

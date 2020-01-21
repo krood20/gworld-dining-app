@@ -1,2 +1,2 @@
-# gworld-dining-app
-Android Application I built to help people find restaurants around GW that accept GWorld (Gw's Currency)
+# project-1-gworld-dining-companion-krood20
+project-1-gworld-dining-companion-krood20 created by GitHub Classroom

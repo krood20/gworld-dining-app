@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Again, you should NOT check your API key / secret into GitHub. I'm deliberately
+    doing it for our lecture app. -->
+    <string name="yelp_client_id">ZJdOzdR7n4XVxbFuJqDaJQ</string>
+    <string name="yelp_key">P0psV1IbC-htPbgNg1K_OEbj5veoIoI_6hbX-Yn0o2k7gPYTKep7HJCuJgH0mzMko29MJ3fp466diLD79jp4JFlDqdEKbNinnLm9BNxVGC-A1kDCae6A2QbCfgqNXXYx</string>
+</resources>
